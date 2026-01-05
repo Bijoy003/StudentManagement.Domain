@@ -1,0 +1,5 @@
+E:\Practice\C#\StudentManagement\StudentManagement.Domain\obj\Debug\net8.0\StudentManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\C#\StudentManagement\StudentManagement.Domain\obj\Debug\net8.0\StudentManagement.Domain.AssemblyInfoInputs.cache
+E:\Practice\C#\StudentManagement\StudentManagement.Domain\obj\Debug\net8.0\StudentManagement.Domain.AssemblyInfo.cs
+E:\Practice\C#\StudentManagement\StudentManagement.Domain\obj\Debug\net8.0\StudentManagement.Domain.csproj.CoreCompileInputs.cache
+E:\Practice\C#\StudentManagement\StudentManagement.Domain\obj\Debug\net8.0\StudentManagement.Domain.sourcelink.json
